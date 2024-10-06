@@ -1,0 +1,23 @@
+@font-face {
+    font-family: 'Gilroy';
+    src: url('../public/gilroy-free/transfonter.org-20240807-074147/Gilroy-ExtraBold.woff2') format('woff2'),
+         url('../public/gilroy-free/transfonter.org-20240807-074147/Gilroy-ExtraBold.woff') format('woff');
+    font-weight: bold;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'Gilroy';
+    src: url('../public/gilroy-free/transfonter.org-20240807-074114/Gilroy-Light.woff2') format('woff2'),
+         url('../public/gilroy-free/transfonter.org-20240807-074114/Gilroy-Light.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+}
+
+
+body{
+    font-family: 'Gilroy';
+    /* font-family: 'Times New Roman', Times; */
+    /* font-family: 'Courier New', Courier, monospace; */
+    /* display: none; */
+}
