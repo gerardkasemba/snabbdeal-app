@@ -1,0 +1,1 @@
+# snabbdeal-app
